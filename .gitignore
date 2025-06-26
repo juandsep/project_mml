@@ -1,3 +1,12 @@
+# This is a template for Python .gitignore files.
+# It is meant to be used as a starting point for Python projects.
+
+# Python
+#  This file should be placed in the root of your repository.
+
+# Folders and files to ignore in Python projects
+/data
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
