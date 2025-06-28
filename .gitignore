@@ -6,7 +6,12 @@
 
 # Folders and files to ignore in Python projects
 /data
-
+/notebooks/logs
+/notebooks/results
+/notebooks/t5_chatbot_model
+/notebooks/t5_chatbot_tokenizer
+/notebooks/t5_chatbot_model.h5
+/notebooks/logs
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
